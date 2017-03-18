@@ -1,0 +1,5 @@
+C:\Users\nholland\Documents\BitBucket\VR mockup hackathon\RevitFiles\Alexa4Revit\Alexa4Revit\Alexa4Revit\bin\Debug\Alexa4Revit.dll
+C:\Users\nholland\Documents\BitBucket\VR mockup hackathon\RevitFiles\Alexa4Revit\Alexa4Revit\Alexa4Revit\bin\Debug\Alexa4Revit.pdb
+C:\Users\nholland\Documents\BitBucket\VR mockup hackathon\RevitFiles\Alexa4Revit\Alexa4Revit\Alexa4Revit\obj\Debug\Alexa4Revit.csprojResolveAssemblyReference.cache
+C:\Users\nholland\Documents\BitBucket\VR mockup hackathon\RevitFiles\Alexa4Revit\Alexa4Revit\Alexa4Revit\obj\Debug\Alexa4Revit.dll
+C:\Users\nholland\Documents\BitBucket\VR mockup hackathon\RevitFiles\Alexa4Revit\Alexa4Revit\Alexa4Revit\obj\Debug\Alexa4Revit.pdb
